@@ -3,7 +3,7 @@ package collections;
 import java.util.HashMap;
 import java.util.Map.Entry;
 
-public class HashMapConcept {
+public class HashMapIteration {
 
 	public static void main(String[] args) {
 		
