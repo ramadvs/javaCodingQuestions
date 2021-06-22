@@ -11,6 +11,7 @@ public class searchOfAnElementInArray {
 			if(x == arr[i])
 			{
 				present = true;
+				System.out.println(" the element is at index num : "+ i );
 				break;
 			}
 		}
