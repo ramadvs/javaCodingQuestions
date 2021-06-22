@@ -49,8 +49,8 @@ LinkedList<String> lnklst = new LinkedList<String>();
 		
 		System.out.println(lnklst);
 		
-		System.out.println(" pop removes the first element in the linked list at a time.")
-;		
+		System.out.println(" pop removes the first element in the linked list at a time.");
+		
 		lnklst.pop();  
 		
 		System.out.println(lnklst);
